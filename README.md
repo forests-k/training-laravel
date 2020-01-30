@@ -53,5 +53,5 @@ LaravelはComposerを依存パッケージとして採用しています。
     ```
 3. Laravelプロジェクトの作成
     ```
-    # composer create-project --prefer-dist laravel/laravel tsundoku
+    # composer create-project --prefer-dist laravel/laravel {project name}
     ```
